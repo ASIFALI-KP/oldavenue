@@ -61,6 +61,15 @@ body, p {
 	font: 400 1.125rem/1.625rem "Open Sans", sans-serif;
 }
 
+.postreviewbutton {
+	margin-top: 35px;
+	text-align: center;
+  }
+  
+  a.postreviewbutton {
+	display: block;
+  }
+
 .p-small {
 	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
 }
