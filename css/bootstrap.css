@@ -617,6 +617,13 @@ pre code {
   padding-left: 15px;
 }
 
+.col-lg-12 {
+  position: static;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .col {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
